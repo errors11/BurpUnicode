@@ -1,0 +1,3 @@
+# BurpUnicode
+Burp小插件
+Burp解码里面好像没Unicode，写个可以Unicode解码的插件练练手
